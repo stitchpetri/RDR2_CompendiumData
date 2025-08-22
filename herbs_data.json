@@ -1,0 +1,14 @@
+{
+  "herbs": {
+    "alaskan_ginseng": {
+      "name": "Alaskan Ginseng",
+      "found": false,
+      "img": "..."
+    },
+    "american_ginseng": {
+      "name": "American Ginseng",
+      "found": false,
+      "img": "..."
+    }
+  }
+}
