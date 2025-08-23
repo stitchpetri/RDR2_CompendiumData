@@ -1,4 +1,9 @@
 {
+  "totals":{
+    "animals":"178",
+    "fish":"28",
+    "herbs":"43"
+  },
   "animals": {
     "fox": { "name": "Fox", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e8/Silver_Fox_at_Love_Triangle.jpg/revision/latest/scale-to-width-down/1000?cb=20221110150440" },
     "alligator": { "name": "American Alligator", "foundEver": false, "image": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_ALLIGATOR_PHOTO.jpg" }
