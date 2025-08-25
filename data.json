@@ -5,8 +5,16 @@
     "herbs":"43"
   },
   "animals": {
+    "american_alligator": { "name": "American Alligator", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/b/b3/AmericanAlligator-RDR2.png/revision/latest/scale-to-width-down/1000?cb=20180929211225" },
+    "small_american_alligator": { "name": "American Alligator (small)", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/6/6e/Alligator_in_Bayou_Nwa.jpg/revision/latest/scale-to-width-down/1000?cb=20210201224135" },
     "fox": { "name": "Fox", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e8/Silver_Fox_at_Love_Triangle.jpg/revision/latest/scale-to-width-down/1000?cb=20221110150440" },
-    "alligator": { "name": "American Alligator", "foundEver": false, "image": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_ALLIGATOR_PHOTO.jpg" }
+    "Bat": { "name": "Brown Bat", "foundEver": false, "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/little-brown-bats-in-rdr2.jpg?q=49&fit=crop&w=1100&h=618&dpr=2" },
+    "Beaver": { "name": "Beaver", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/4/42/Beaver_at_the_Upper_Montana_River.png/revision/latest/scale-to-width-down/1000?cb=20210831235230" },
+    "sierra_nevada_bighorn": { "name": "Sierra Nevada Bighorn Sheep", "foundEver": false, "image": "https://i.imgur.com/Ciwcspa.png" },
+    "desert_bighorn": { "name": "Desert Bighorn Sheep", "foundEver": false, "image": "https://i.imgur.com/7o0ubYe.png" },
+    "rocky_mountain_bighorn": { "name": "Rocky Mountain Bighorn Sheep", "foundEver": false, "image": "https://pbs.twimg.com/media/EegxlHQXYAAzuHV.jpg:large" },
+    "bison": { "name": "American Bison", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/9/9b/Bison_screenshot_-_Red_Dead_Redemption_2.jpg/revision/latest/scale-to-width-down/1000?cb=20180925182533" },
+    "badger": { "name": "Badger", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/b/bd/Badger_3.png/revision/latest/scale-to-width-down/1000?cb=20220928221438" },
   },
   "fish": {
     "bluegill": { "name": "Bluegill", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/3/39/Red_Dead_Redemption_2-Bluegill_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20181111051815" },
