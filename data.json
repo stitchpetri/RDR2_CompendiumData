@@ -14,10 +14,13 @@
     "desert_bighorn": { "name": "Desert Bighorn Sheep", "foundEver": false, "image": "https://i.imgur.com/7o0ubYe.png" },
     "rocky_mountain_bighorn": { "name": "Rocky Mountain Bighorn Sheep", "foundEver": false, "image": "https://pbs.twimg.com/media/EegxlHQXYAAzuHV.jpg:large" },
     "bison": { "name": "American Bison", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/9/9b/Bison_screenshot_-_Red_Dead_Redemption_2.jpg/revision/latest/scale-to-width-down/1000?cb=20180925182533" },
-    "badger": { "name": "Badger", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/b/bd/Badger_3.png/revision/latest/scale-to-width-down/1000?cb=20220928221438" },
+    "black_bear": { "name": "Black Bear", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/7/7c/Black_Bear_in_Bayou_Nwa.jpg/revision/latest/scale-to-width-down/1000?cb=20210330175619" },
+    "blue_jay": { "name": "Blue Jay", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/1/13/Blue_jay_flying_near_two_crows.png/revision/latest/scale-to-width-down/1000?cb=20230910220609" },
+    "wild_boar": { "name": "Wild Boar", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/8/8f/Wild_Boar_in_Big_Valley.jpg/revision/latest/scale-to-width-down/1000?cb=20210116023432" },
+    "red_footed_booby": { "name": "Red-footed Booby", "foundEver": false, "image": "blob:https://imgur.com/8f5883e0-5f81-41c2-ab40-4d1903b142b6" }
   },
   "fish": {
-    "bluegill": { "name": "Bluegill", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/3/39/Red_Dead_Redemption_2-Bluegill_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20181111051815" },
+    "bluegill": { "name": "Bluegill", "foundEver": false, "image": "blob:https://imgur.com/14339039-c55d-411c-95bf-2b3725abfcfb" },
     "bullhead_catfish": { "name": "Bullhead Catfish", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/2/23/RDR2_Portrait_Bullhead_Catfish.png/revision/latest/scale-to-width-down/1000?cb=20181115165650" },
     "channel_catfish": { "name": "Channel Catfish", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/0/08/RDR2_Portrait_Channel_Catfish.png/revision/latest/scale-to-width-down/1000?cb=20181115165712" },
     "chain_pickerel": { "name": "Chain Pickerel", "foundEver": false, "image": "https://static.wikia.nocookie.net/reddeadredemption/images/8/84/RDR2_Portrait_Chain_Pickerel.png/revision/latest/scale-to-width-down/1000?cb=20181115165700" },
